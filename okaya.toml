@@ -1,0 +1,2 @@
+[settings]
+LLM_enabled = ["LLM1", "LLM2"]
